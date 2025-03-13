@@ -1,0 +1,1 @@
+To run the jupyter notebook make sure you have the required packages installed and have the dataset at: https://www.kaggle.com/datasets/lexset/synthetic-asl-alphabet/data extracted to this folder. Don't rerun the cells unless you have to since retraining will take ~2 hours on a gpu.
